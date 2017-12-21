@@ -1,0 +1,14 @@
+{
+  "name": "dream-view-apis",
+  "version": "0.0.1",
+  "description": "Dream view apis",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
