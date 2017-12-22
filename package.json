@@ -1,7 +1,7 @@
 {
-  "name": "dream-view-apis",
+  "name": "500px-spider",
   "version": "0.0.1",
-  "description": "Dream view apis",
+  "description": "500px spider",
   "main": "index.js",
   "directories": {
     "test": "test"
